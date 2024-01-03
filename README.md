@@ -10,6 +10,7 @@ Folders and sub-folders are:
   - HackerRank
 - Textbooks
   - Python Crash Course
-  - How to Think like a Computer Scientist
+  - How to Think like a Computer Scientist (tlacs)
+- Misc (for anything that may not apply to aforementioned categories)
 
 The actual code files can be navigated to within the respective folders. 
